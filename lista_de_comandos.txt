@@ -86,6 +86,8 @@ pip install -r requirements.txt #Instala todos los modulos y versiones presentes
 
 nmp install #Instala todas las dependencia de React
 
+yarn build
+
 #Entorno funcionando
 
 1. Descargar el repositorio completo de github
